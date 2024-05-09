@@ -1,1 +1,1 @@
-
+This project utilizes Jupyter Notebook to clean the data and analyze correlations among various movie attributes. The dataset used in this project is sourced from Kaggle and can be found here: https://www.kaggle.com/datasets/danielgrijalvas/movies
